@@ -1,3 +1,31 @@
+## Day 0: 02 Jan 17
+
+### Today is start day. 
+### Big project
+So I have an idea that I want to do for a project. Being suitably domesticated and well into a stable relationship, grocery shopping and cooking are routine things. We sit down once a week or so and plan a menu. From that menu we build out a grocery list, excluding what we have in the house.
+
+While this is a bearable errand, I have noticed that we have ended up rotating though a list of 20-30 meals from which we hardly deviate. I have my wife and son to thank for that :-/. My son only eats crap foods and I swear that my wife won't eat anything that she was not introduced to before the age of three. Neither one of them will ever end up on Github so I can talk smack with impunity!
+
+Anything that is repeated is candidate for automation. The project that I have in mind will be a grocery list generator. Using a simple database, all of the meals will be broken into ingredients needed in its recipe. As meals are chosen for the week, the grocery list will populate based on the meal's recipe.  The list will then be editable to take into account items that we already have around the house; there's no need to soy sauce every time it's used, etc.
+
+I am still considering output for this list. I use Wunderlist for groceries and will likely consider [integration](https://developer.wunderlist.com/documentation) with it. I think I will work with output so that there are still options for different services or files.
+### Small projects
+Since I am still new to all this and have never done more than tutorials on [Codeacademy](www.codeacademy.com) and [freeCodeCamp](https://www.freecodecamp.com/) I cannot just start with the grocery list generator. I know that I want to get myself up and comfortable with JavaScript before I start the big project. In order to do that, I will spend a fair amount of the 100DaysOfCode working on coding challenges. So far I have found a few sites that fit the bill:
+- [Project Euler](https://projecteuler.net/)
+
+- [Codewars](https://www.codewars.com/)
+
+- [Dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) on reddit
+
+- [coderbyte](https://coderbyte.com/)
+
+One other thing that I am going to do is move this log over to a  blog. I stumbled across Jeckyll during a web design class and was fascinated by it. Since then I have not had a chance to play around with it because of school work and family obligations. GitHub ties in tightly with this CMS so it seems like I can use this as an excuse to re-visit Jeckyll.
+
+Real world is calling...
+&#171; &#187;
+
+
+
 ## Day -4: 29 Dec 16
 
 During the winter break I have taken it upon myself to refresh on HTML/CSS and learn a bit about JavaScript. As a SharePoint admin, I'll be putting what I learn to use manipulate page presentation and providing users with widgets. During my studies I came across the 100DaysOfCode and thought I would give it a try.
