@@ -21,8 +21,10 @@ Since I am still new to all this and have never done more than tutorials on [Cod
 
 One other thing that I am going to do is move this log over to a  blog. I stumbled across Jeckyll during a web design class and was fascinated by it. Since then I have not had a chance to play around with it because of school work and family obligations. GitHub ties in tightly with this CMS so it seems like I can use this as an excuse to re-visit Jeckyll.
 
-Real world is calling...
-&#171; &#187;
+### Today's work
+For this evening's coding pleasure, I stuck with [Codewars](https://www.codewars.com/). I completed:
+- "Even or Odd"
+- "Dubstep" not completed- will continue tomorrow
 
 
 
