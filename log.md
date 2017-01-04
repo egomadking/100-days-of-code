@@ -1,5 +1,28 @@
-## Day 0: 02 Jan 17
+## Day 1: 03 Jan 17 
+#### 11:50 AM
+### Thought of another project
+I am a recent Calibre convert. I like it because of it flexibility and because it does not hide the ebooks inside of a self-contained database or package. It manages books right in the filesystem through a nested folder structure. I can use Calibre but I can still get to them directly. Nice. One thing that I don't like is that its folder structure uses authors's names. 
 
+Most of the stuff that I have in Calibre are tech books and reference docs- plus I have a bad memory for names. This means that when I browse for an item, it's almost always by the title, not the author. I do not want to change how Calibre does its thing, but I still don't want to have to dig through author folders.
+
+I would like to make a script that listens to Calibre's working folders to make an alias directory by book name. Further, I want to make the script listen for changes then automatically regenerate the alias directory.
+
+#### Allowances
+- Can be a script that runs on my desktop (Hazel, Automator, or AppleScript)
+- Does not have to update real-time (I would be willing to accept a bit of lag- in minutes, not hours or days.)
+
+#### Challenges
+- The directory is on DropBox
+- Alias directory should be compatible with mobile clients (I should be able to click on a link inside of my Kindle Fire's DropBox client)
+- Do not want inconsistencies to persist or accumulate (recompile directory each time, not update)
+
+#### 9:00 PM
+### Worked on:
+[Codewars](https://www.codewars.com/)
+- "Dubstep" - Incomplete- regex is killing me. Will persist tomorrow. Text matching very important to me since I want to work in content management.
+
+## Day 0: 02 Jan 17
+#### 9:00 AM
 ### Today is start day. 
 ### Big project
 So I have an idea that I want to do for a project. Being suitably domesticated and well into a stable relationship, grocery shopping and cooking are routine things. We sit down once a week or so and plan a menu. From that menu we build out a grocery list, excluding what we have in the house.
@@ -20,6 +43,8 @@ Since I am still new to all this and have never done more than tutorials on [Cod
 - [coderbyte](https://coderbyte.com/)
 
 One other thing that I am going to do is move this log over to a  blog. I stumbled across Jeckyll during a web design class and was fascinated by it. Since then I have not had a chance to play around with it because of school work and family obligations. GitHub ties in tightly with this CMS so it seems like I can use this as an excuse to re-visit Jeckyll.
+
+#### 10:30PM
 
 ### Today's work
 For this evening's coding pleasure, I stuck with [Codewars](https://www.codewars.com/). I completed:
@@ -52,4 +77,3 @@ I will use the 100DaysOfCode as an excuse, an enabler if you will, to get back i
 
 Maybe I will get around to explaining my choices some day. They are not random.
 
-&#171; &#187;
