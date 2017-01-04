@@ -1,3 +1,33 @@
+## Day 2: 04 Jan 17
+#### 06:30
+[Codewars](https://www.codewars.com/)
+- Finished "Dubstep"
+
+I figured out that I was returning an unmodified version of the original string. I had to set the string to a new value before returning it.*This is an approximation of the codewars code. I am not posting spoilers or solutions*
+This is what I was trying:
+```
+function subStrRemover(str){
+	str.replace(/REGEX/g, ' ');
+	str.trim();
+	return str;
+```
+how I made it work:
+```
+function subStrRemover(str){
+	str = str.replace(/REGEX/g, ' ');
+	str = str.replace(/\s\s+/g,' ');
+	str = trim();
+	return str;
+```
+how many others did it:
+```
+function subStrRemover(str){
+	return str.replace(/(REGEX)+/g, 'replacement').trim();
+```
+
+I seemed to have needlessly soiled the inside of my string with extra spaces. If I used the `+` with my `/REGEX/` I would have avoided extra work. I also learned that you can use several members with an object at one time. I need to look into whether that is a good practice.
+
+
 ## Day 1: 03 Jan 17 
 #### 11:50 AM
 ### Thought of another project
