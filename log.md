@@ -5,6 +5,7 @@
 
 I figured out that I was returning an unmodified version of the original string. I had to set the string to a new value before returning it.*This is an approximation of the codewars code. I am not posting spoilers or solutions*
 This is what I was trying:
+
 ```
 function subStrRemover(str){
 	str.replace(/REGEX/g, ' ');
@@ -12,6 +13,7 @@ function subStrRemover(str){
 	return str;
 ```
 how I made it work:
+
 ```
 function subStrRemover(str){
 	str = str.replace(/REGEX/g, ' ');
@@ -20,12 +22,19 @@ function subStrRemover(str){
 	return str;
 ```
 how many others did it:
+
 ```
 function subStrRemover(str){
 	return str.replace(/(REGEX)+/g, 'replacement').trim();
 ```
 
 I seemed to have needlessly soiled the inside of my string with extra spaces. If I used the `+` with my `/REGEX/` I would have avoided extra work. I also learned that you can use several members with an object at one time. I need to look into whether that is a good practice.
+
+#### 9:50 PM
+[Codewars](https://www.codewars.com/)
+- Started "Printer Errors"
+
+Close but I need to figure out how to avoid a null `.length`. A bit cryptic I know but I am tired. More tomorrow.
 
 
 ## Day 1: 03 Jan 17 
