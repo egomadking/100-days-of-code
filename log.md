@@ -1,6 +1,29 @@
+## Day 3: 05 Jan 17
+
+#### 2:00 PM
+[Codewars](www.codewars.com/r/ob2nNw)
+
+- Finished "Printer Errors"
+
+I must look into the different uses of `search`, `indexOf`, `match`, `test`, `filter`. Some will take REGEX while others do not.
+
+The challenge that I completed consisted of counting out of place characters with an then comparing that count with the length of the string. I stuck with`match` to do my counting, but had issues with it when it when it had zero matches in a string. More specifically, `.length` would not accept `null`. To fix it, I ran the string through a comparison looking for any anomalous characters. If it did, then I smacked it with a `match(REGEX).length` to get a count. If there were no anomalous characters, I assigned a counting variable.
+
+```
+function printerError(str) {
+  var count = 0;
+  if(str.search(/REGEX/) > -1){
+    count = (str.match(/REGEX/g)).length;
+  }
+  else{};
+  return (count+'/'+str.length);
+}
+```
+
 ## Day 2: 04 Jan 17
 #### 06:30
-[Codewars](https://www.codewars.com/)
+[Codewars](www.codewars.com/r/ob2nNw)
+
 - Finished "Dubstep"
 
 I figured out that I was returning an unmodified version of the original string. I had to set the string to a new value before returning it.*This is an approximation of the codewars code. I am not posting spoilers or solutions*
@@ -31,7 +54,7 @@ function subStrRemover(str){
 I seemed to have needlessly soiled the inside of my string with extra spaces. If I used the `+` with my `/REGEX/` I would have avoided extra work. I also learned that you can use several members with an object at one time. I need to look into whether that is a good practice.
 
 #### 9:50 PM
-[Codewars](https://www.codewars.com/)
+[Codewars](www.codewars.com/r/ob2nNw)
 - Started "Printer Errors"
 
 Close but I need to figure out how to avoid a null `.length`. A bit cryptic I know but I am tired. More tomorrow.
@@ -57,7 +80,7 @@ I would like to make a script that listens to Calibre's working folders to make 
 
 #### 9:00 PM
 ### Worked on:
-[Codewars](https://www.codewars.com/)
+[Codewars](www.codewars.com/r/ob2nNw)
 - "Dubstep" - Incomplete- regex is killing me. Will persist tomorrow. Text matching very important to me since I want to work in content management.
 
 ## Day 0: 02 Jan 17
@@ -75,7 +98,7 @@ I am still considering output for this list. I use Wunderlist for groceries and 
 Since I am still new to all this and have never done more than tutorials on [Codeacademy](www.codeacademy.com) and [freeCodeCamp](https://www.freecodecamp.com/) I cannot just start with the grocery list generator. I know that I want to get myself up and comfortable with JavaScript before I start the big project. In order to do that, I will spend a fair amount of the 100DaysOfCode working on coding challenges. So far I have found a few sites that fit the bill:
 - [Project Euler](https://projecteuler.net/)
 
-- [Codewars](https://www.codewars.com/)
+- [Codewars](www.codewars.com/r/ob2nNw)
 
 - [Dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) on reddit
 
@@ -86,7 +109,7 @@ One other thing that I am going to do is move this log over to a  blog. I stumbl
 #### 10:30PM
 
 ### Today's work
-For this evening's coding pleasure, I stuck with [Codewars](https://www.codewars.com/). I completed:
+For this evening's coding pleasure, I stuck with [Codewars](www.codewars.com/r/ob2nNw). I completed:
 - "Even or Odd"
 - "Dubstep" not completed- will continue tomorrow
 
