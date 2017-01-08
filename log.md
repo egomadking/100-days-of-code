@@ -9,7 +9,7 @@ Had visitors this evening- will double-up tomorrow.
 ## Day 3: 05 Jan 17
 
 #### 2:00 PM
-[Codewars](www.codewars.com/r/ob2nNw)
+[Codewars](https://www.codewars.com/r/ob2nNw)
 
 - Finished "Printer Errors"
 
@@ -30,7 +30,7 @@ function printerError(str) {
 
 ## Day 2: 04 Jan 17
 #### 06:30
-[Codewars](www.codewars.com/r/ob2nNw)
+[Codewars](https://www.codewars.com/r/ob2nNw)
 
 - Finished "Dubstep"
 
@@ -62,7 +62,7 @@ function subStrRemover(str){
 I seemed to have needlessly soiled the inside of my string with extra spaces. If I used the `+` with my `/REGEX/` I would have avoided extra work. I also learned that you can use several members with an object at one time. I need to look into whether that is a good practice.
 
 #### 9:50 PM
-[Codewars](www.codewars.com/r/ob2nNw)
+[Codewars](https://www.codewars.com/r/ob2nNw)
 - Started "Printer Errors"
 
 Close but I need to figure out how to avoid a null `.length`. A bit cryptic I know but I am tired. More tomorrow.
@@ -88,7 +88,7 @@ I would like to make a script that listens to Calibre's working folders to make 
 
 #### 9:00 PM
 ### Worked on:
-[Codewars](www.codewars.com/r/ob2nNw)
+[Codewars](https://www.codewars.com/r/ob2nNw)
 - "Dubstep" - Incomplete- regex is killing me. Will persist tomorrow. Text matching very important to me since I want to work in content management.
 
 ## Day 0: 02 Jan 17
@@ -106,7 +106,7 @@ I am still considering output for this list. I use Wunderlist for groceries and 
 Since I am still new to all this and have never done more than tutorials on [Codeacademy](www.codeacademy.com) and [freeCodeCamp](https://www.freecodecamp.com/) I cannot just start with the grocery list generator. I know that I want to get myself up and comfortable with JavaScript before I start the big project. In order to do that, I will spend a fair amount of the 100DaysOfCode working on coding challenges. So far I have found a few sites that fit the bill:
 - [Project Euler](https://projecteuler.net/)
 
-- [Codewars](www.codewars.com/r/ob2nNw)
+- [Codewars](https://www.codewars.com/r/ob2nNw)
 
 - [Dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) on reddit
 
@@ -117,7 +117,7 @@ One other thing that I am going to do is move this log over to a  blog. I stumbl
 #### 10:30PM
 
 ### Today's work
-For this evening's coding pleasure, I stuck with [Codewars](www.codewars.com/r/ob2nNw). I completed:
+For this evening's coding pleasure, I stuck with [Codewars](https://www.codewars.com/r/ob2nNw). I completed:
 - "Even or Odd"
 - "Dubstep" not completed- will continue tomorrow
 
