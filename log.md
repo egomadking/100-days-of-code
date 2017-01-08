@@ -1,4 +1,12 @@
 ## Day 3: 05 Jan 17
+#### 11:45 PM
+
+Got some coding in. More [Codewars](www.codewars.com/r/ob2nNw), of course. Will explain more tomorrow...
+
+## Day 3: 05 Jan 17
+Had visitors this evening- will double-up tomorrow.
+
+## Day 3: 05 Jan 17
 
 #### 2:00 PM
 [Codewars](www.codewars.com/r/ob2nNw)
