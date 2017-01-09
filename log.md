@@ -1,9 +1,16 @@
-## Day 3: 05 Jan 17
+## Day 6: 08 Jan 17
+#### 8:46 PM
+
+As stated yesterday, I continued to work with [Codewars](https://www.codewars.com/r/ob2nNw). I am currently working on "Isograms" which is another search and count exercise. I have been letting Codewars assign me exercises as I complete them so this is just a coincidence. I'll roll with it until I find them easy. Being able to find pieces of content is an important skill to have for a content manager anyways. 
+
+I will be soon moving this journal to a GitHub hosted site. I have a new repo started up for it but I have yet to shape it how I want. I know that Jeckyll requires a certain folder structure to run but that does not appear in the repo. I am not certain if I have to create the structure myself or if there is some other way to set it up. I could easily add the directories myself but I don't want to jack up the site without doing a bit of reading.
+
+## Day 5: 07 Jan 17
 #### 11:45 PM
 
 Got some coding in. More [Codewars](https://www.codewars.com/r/ob2nNw), of course. Will explain more tomorrow...
 
-## Day 3: 05 Jan 17
+## Day 4: 06 Jan 17
 Had visitors this evening- will double-up tomorrow.
 
 ## Day 3: 05 Jan 17
