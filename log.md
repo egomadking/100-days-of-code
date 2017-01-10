@@ -1,3 +1,16 @@
+## Day 7: 09 Jan 17
+#### 8:15 PM
+
+Completed "Isograms" on [Codewars](https://www.codewars.com/r/ob2nNw). This exercise required a script that evaluated a string to see if it had 2 or more of any character it contains. If it did, the function returns `false`- as in not an isogram. If each letter was unique, the function returns `true`. The solution consisted of  `for` loop that evaluated a character at the index using the value of the counting variable.
+
+````
+for ( var i=0; i<string.length; i++){
+	var test = string.charAt(i);
+	...
+````
+
+Instead of testing each character, I compared `.indexOf(test)` with `.lastIndexOf(test)`. If they came up with different values, I knew that there was more than one character with the value of `test`. I finally put a condition in the function that returns `true` for an empty string because it was needed. No Bothans died to bring you this information.
+
 ## Day 6: 08 Jan 17
 #### 8:46 PM
 
