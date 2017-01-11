@@ -1,3 +1,9 @@
+## Day 8: 10 Jan 17
+#### 8:30 PM
+
+Completed "Shortest Word on [Codewars](https://www.codewars.com/r/ob2nNw). The exercises are getting easier. I finished this one in a single setting, or, 1.5 coffee-units. The solution I came up with split the word list into separate words in an array. Each word was then compared to see which was the shortest. I think in an exercise or two, I'll shift my focus out of strings and move to math or arrays. Booleans are wHaTeVer, as are dates. In a few weeks I will start conceptualizing one of my bigger projects.
+
+
 ## Day 7: 09 Jan 17
 #### 8:15 PM
 
@@ -122,6 +128,8 @@ While this is a bearable errand, I have noticed that we have ended up rotating t
 Anything that is repeated is candidate for automation. The project that I have in mind will be a grocery list generator. Using a simple database, all of the meals will be broken into ingredients needed in its recipe. As meals are chosen for the week, the grocery list will populate based on the meal's recipe.  The list will then be editable to take into account items that we already have around the house; there's no need to soy sauce every time it's used, etc.
 
 I am still considering output for this list. I use Wunderlist for groceries and will likely consider [integration](https://developer.wunderlist.com/documentation) with it. I think I will work with output so that there are still options for different services or files.
+
+
 ### Small projects
 Since I am still new to all this and have never done more than tutorials on [Codeacademy](www.codeacademy.com) and [freeCodeCamp](https://www.freecodecamp.com/) I cannot just start with the grocery list generator. I know that I want to get myself up and comfortable with JavaScript before I start the big project. In order to do that, I will spend a fair amount of the 100DaysOfCode working on coding challenges. So far I have found a few sites that fit the bill:
 - [Project Euler](https://projecteuler.net/)
