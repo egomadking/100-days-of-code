@@ -1,3 +1,19 @@
+## Day 11: 13 Jan 17
+#### 9:40 PM
+### Upgrade Day
+
+I took Wednesday and Thursday off- Weds I had a lovely neck cramp and Thurs I had to focus on schoolwork. I think I made up for it today, however. I spend most of the day working on a GitHub site so that I can move my journaling to a more polished site.
+
+I tried to set it up on my own but I was not all that successful. The GitHub page that is provided does not have any of the directories found in a full Jeckyll install. I found several articles that showed how to set up Jeckyll locally then sync it with a repo but they skipped a few key steps to make sense out of the whole process.
+
+I created and deleted two times, both with the same unsatisfactory results. After lunch, I ran across the [jekyll-now](https://github.com/barryclark/jekyll-now) repo which promised a quick start through cloning it. At this point, I had deleted [egomadking.github.io/](https://egomadking.github.io/) several times and became numb to the share of the almighty *delete*. With dubiousness, I cloned the repo and set it up to be a GitHub page repo.
+
+It worked!
+
+I now have a site to work with. I spent most of my afternoon and evening looking over the site directory and the SASS files. I have already made a few changes and have more coming. 
+
+At any rate I am going to use [egomadking.github.io/](https://egomadking.github.io/) to continue with my journal. This repo will be used to for 100DaysOfCode references and miscellany.
+
 ## Day 8: 10 Jan 17
 #### 8:30 PM
 
